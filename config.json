@@ -129,7 +129,7 @@
 		"event": true,
 		"read_receipt": false,
 		"typ": false,
-		"presence": false
+		"presence": false,
 	},
 	"optionsFca": {
 		"forceLogin": true,
